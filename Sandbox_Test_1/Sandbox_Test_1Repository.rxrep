@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="Sandbox_Test_1Repository"
+id="e295b07f-300b-4b5b-b5e7-1be2be2dad1d"
+rxversion="6.0">
+  <codegen
+  classname="Sandbox_Test_1Repository"
+  namespace="Sandbox_Test_1"/>
+  <rootfolder
+  name="Root"
+  id="ed600acb-42aa-4ffa-b740-7a18f9993fcc"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

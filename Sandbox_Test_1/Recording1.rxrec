@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+rxversion="6.0"
+id="cc5eedc9-5adb-4757-9f40-c6268d156e22"
+embeddedrepository="false"
+mode="Global">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="Sandbox_Test_1"/>
+	<variables/>
+	<recorditems/>
+	<repository
+	name="Sandbox_Test_1Repository"
+	id="e295b07f-300b-4b5b-b5e7-1be2be2dad1d"
+	rxversion="6.0"
+	relativepath="Sandbox_Test_1Repository.rxrep">
+		<codegen
+		classname="Sandbox_Test_1Repository"
+		namespace="Sandbox_Test_1"/>
+		<rootfolder
+		name="_rootdummy_"
+		id="ed600acb-42aa-4ffa-b740-7a18f9993fcc"/>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references/>
+</recordtable>
